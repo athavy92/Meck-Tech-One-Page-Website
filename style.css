@@ -69,6 +69,18 @@ p {
   overflow: hidden;
 }
 
+a:link {
+  color: #0085CA;
+}
+
+a:visited {
+  color: #0085CA;
+}
+
+a:hover {
+  color: #BFC0BF;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
